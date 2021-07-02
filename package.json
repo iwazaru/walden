@@ -32,7 +32,7 @@
     "event-hooks-webpack-plugin": "^2.1.7",
     "extra-watch-webpack-plugin": "^1.0.3",
     "file-loader": "^6.0.0",
-    "fs-extra": "^9.0.1",
+    "fs-extra": "^10.0.0",
     "html-webpack-plugin": "^4.4.1",
     "live-server": "^1.2.1",
     "lunr": "^2.3.9",
